@@ -72,6 +72,11 @@ Use the root token provided by the script to authenticate.
 
 ---
 
+## Author
+
+**Saeedullah Shaikh**
+- GitHub: [@Saeedullahshaikh](https://github.com/Saeedullahshaikh)
+
 ---
 
 ## 📜 License
